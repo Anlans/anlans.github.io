@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: [https://anlans.github.io/mysite/sitemap.xml](https://anlans.github.io/mysite/sitemap.xml)
