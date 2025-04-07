@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://anlans.github.io/mysite/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://anlans.github.io/mysite/%E4%B9%A6%E7%B1%8D/Architecture-Patterns-with-Python/Preface/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
-         <loc>https://anlans.github.io/mysite/%E6%8A%80%E6%9C%AF/%E9%9D%A2%E8%AF%95%E9%87%91%E9%92%A5/5-1_%E8%A3%85%E9%A5%B0%E5%99%A8/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <loc>https://anlans.github.io/mysite/%E6%8A%80%E6%9C%AF/AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/langgraph%E7%AC%94%E8%AE%B0/langgraph%E7%AC%AC%E4%B8%80%E7%AF%87%E4%BB%8B%E7%BB%8D/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://anlans.github.io/mysite/%E6%8A%80%E6%9C%AF/%E9%9D%A2%E8%AF%95%E9%87%91%E9%92%A5/langchain%E9%9D%A2/langchain%E9%9D%A2%E8%AF%95%E9%A2%98%E5%87%86%E5%A4%87/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://anlans.github.io/mysite/%E6%8A%80%E6%9C%AF/%E9%9D%A2%E8%AF%95%E9%87%91%E9%92%A5/python%E9%9D%A2/5-1_%E8%A3%85%E9%A5%B0%E5%99%A8/</loc>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://anlans.github.io/mysite/%E6%97%A5%E5%B8%B8/%E5%A4%87%E5%BF%98/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
 </urlset>
